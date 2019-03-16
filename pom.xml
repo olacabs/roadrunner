@@ -9,13 +9,6 @@
 
     <packaging>jar</packaging>
 
-    <parent>
-        <groupId>com.olacabs</groupId>
-        <artifactId>ola-libs-master-pom</artifactId>
-        <version>1.0</version>
-    </parent>
-
-	
 
 	<dependencies>
 

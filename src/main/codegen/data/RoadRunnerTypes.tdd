@@ -1,0 +1,56 @@
+{
+  numeric_types: [
+    {
+      javaType: "short",
+      boxedType: "Short",
+    },
+    {
+      javaType: "int",
+      boxedType: "Integer"
+    },
+    {
+      javaType: "float",
+      boxedType: "Float"
+    },
+    {
+      javaType: "long",
+      boxedType: "Long"
+    },
+    {
+      javaType: "double",
+      boxedType: "Double"
+    }
+  ],
+  types: [
+    {
+      javaType: "short",
+      boxedType: "Short",
+      caseCode: "SHORT"
+    },
+    {
+      javaType: "int",
+      boxedType: "Integer",
+      caseCode: "INT"
+    },
+    {
+      javaType: "float",
+      boxedType: "Float",
+      caseCode: "FLOAT"
+    },
+    {
+      javaType: "long",
+      boxedType: "Long",
+      caseCode: "LONG"
+    },
+    {
+      javaType: "double",
+      boxedType: "Double",
+      caseCode: "DOUBLE"
+    },
+    {
+      javaType: "String",
+      boxedType: "String",
+      caseCode: "STRING"
+    }
+  ]
+}
